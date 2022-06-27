@@ -1,10 +1,4 @@
 < script >
-
-    // JavaScript program to find longest
-    // contiguous subsequence
-
-    // Returns length of the longest
-    // contiguous subsequence
     function findLongestConseqSubseq(arr, n) {
         let ans = 0,
             count = 0;
