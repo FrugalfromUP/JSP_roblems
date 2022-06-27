@@ -1,9 +1,7 @@
 <
 script >
 
-    // Javascript program to find a triplet
-    // returns true if there is triplet with sum equal 
-    // to 'sum' present in A[]. Also, prints the triplet 
+
     function find3Numbers(A, arr_size, sum) {
         let l, r;
 
